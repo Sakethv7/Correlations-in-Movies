@@ -23,5 +23,19 @@ Before running the project, ensure you have the following installed:
 - Matplotlib
 
 You can install the necessary dependencies using the following command:
-```bash
-pip install pandas numpy seaborn matplotlib
+`
+pip install pandas numpy seaborn matplotlib`
+
+## How to Run the Script
+Clone the repository:
+`git clone https://github.com/yourusername/Movies-Data-Analysis.git
+cd Movies-Data-Analysis`
+
+Run the script:
+`python movies_correlation.py`
+
+## Results
+The visualizations provides a clear understanding with numeric evidences of how different numeric features such as score, votes, budget, and gross are correlated with one another. You can use this to identify the most significant features affecting a movie's success.
+
+
+
